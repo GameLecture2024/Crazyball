@@ -5705,7 +5705,7 @@ MonoBehaviour:
   upgrades: {fileID: 1766703215}
   upgradePanel: {fileID: 1518845741}
   gameOverPanel: {fileID: 686569073}
-  stageDuration: 15
+  stageDuration: 5
 --- !u!114 &1766703217
 MonoBehaviour:
   m_ObjectHideFlags: 0
